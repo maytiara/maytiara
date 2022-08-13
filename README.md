@@ -12,6 +12,8 @@
 #### ✈️ Join me, as I navigate the world of web...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=6000&color=CFCFCF&multiline=true&height=100&lines=%F0%9F%93%AB+How+to+reach+me...;+codingowl898%40gmail.com)](https://git.io/typing-svg)
 
+💭 **"Read the Documentation"** --coder mantra
+
 <!---
 maytiara/maytiara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
