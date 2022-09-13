@@ -1,8 +1,8 @@
-![Ola](https://media.giphy.com/media/Uz520IFCIIGsKfuIQv/giphy.gif)
+![Ola](https://github.com/maytiara/first-day-repo/blob/f3da5063d3c16ea138efe374730ecb73a4b8ad8a/pexels-photo-8959147-cropped.jpg)
 
 # Ola! I’m May
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=F7BE29&center=true&vCenter=true&multiline=true&height=100&lines=%22Design+is+so+simple.;That's+why+it+is+so+complicated%22)](https://git.io/typing-svg)
->*by: Paul Rand*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=5500&pause=1000&color=F7AB24&width=435&lines=%22The+sky's+the+limit..)](https://git.io/typing-svg)
+> Let's build & create something great.. 🚧
 
 ### Do you agree? Y/n
 --------------
