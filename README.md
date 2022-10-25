@@ -1,4 +1,4 @@
-![Ola](https://github.com/maytiara/first-day-repo/blob/f3da5063d3c16ea138efe374730ecb73a4b8ad8a/pexels-photo-8959147-cropped.jpg)
+![Ola](https://github.com/maytiara/first-day-repo/blob/maytiara-assets/codingowl-profile-header.png)
 
 # Ola! I’m May
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=5500&pause=1000&color=F7AB24&width=435&lines=%22The+sky's+the+limit..)](https://git.io/typing-svg)
