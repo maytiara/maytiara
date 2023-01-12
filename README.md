@@ -1,12 +1,12 @@
-![Ola](https://github.com/maytiara/first-day-repo/blob/maytiara-assets/codingowl-profile-header.png)
+![Konnichiwa](https://github.com/maytiara/first-day-repo/blob/maytiara-assets/codingowl-profile-header.png)
 
-# Ola! I’m May
+# Konnichiwa! I’m May
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=5500&pause=1000&color=F7AB24&width=435&lines=%22The+sky's+the+limit..)](https://git.io/typing-svg)
 > Let's build & create something great.. 🚀
 
 --------------
 #### 👀 I’m interested in Learning & Experimenting new different ways to improve at coding, web development and lately three.js **_"Someday... I will click the submit project 🚀"_**
-#### 🎨 I’m a creative developer (...aspriring to be a full-stack developer)
+#### 🎨 I’m a creative developer/graphic designer (...aspriring to be a full-stack developer)
 #### 🪴 Learned frameworks, languages, app & concepts (REACT | CSS | JAVASCRIPT | MYSQL | MONGODB | GRAPHQL | NODEJS | EXPRESSJS | REST API | HEROKU (Deployment) | OOP
 #### 🌱 still learning (PWA | APP TESTING (using jest) | more to come...)
 #### 🌱🧪 learning (Three.js | ....)
