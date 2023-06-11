@@ -1,4 +1,4 @@
-![Konnichiwa](https://github.com/maytiara/first-day-repo/blob/maytiara-assets/codingowl-profile-header.png)
+![Konnichiwa](https://github.com/maytiara/first-day-repo/blob/main/maya101_illustration_of_outer_space_with_a_dreamy_imaginative_edited-with-owl.jpg)
 
 # Konnichiwa! I’m May
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=5500&pause=1000&color=F7AB24&width=435&lines=%22The+sky's+the+limit..)](https://git.io/typing-svg)
